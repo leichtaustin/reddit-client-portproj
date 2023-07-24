@@ -14,7 +14,7 @@ const Header = () => {
                     aria-label="Search posts"
                 />
                 <button type="submit" aria-label="Search">
-                    Search
+                    Search 2
                 </button>
             </form>
         </header>
