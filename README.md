@@ -20,6 +20,7 @@ Features which will be included:
 Header
     Search Bar: search term
 Main Body
+    Reddit posts as determined by the search term
     
 
 
